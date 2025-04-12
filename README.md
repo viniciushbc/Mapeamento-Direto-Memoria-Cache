@@ -1,4 +1,4 @@
-.# Memória Cache em Python
+# Memória Cache em Python
 
 Este projeto simula o funcionamento básico de uma **memória cache** com mapeamento direto, permitindo observar o comportamento de **cache hit** e **cache miss** em operações de leitura/escrita na memória RAM.
 
