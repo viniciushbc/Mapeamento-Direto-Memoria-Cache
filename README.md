@@ -1,4 +1,4 @@
-# Memória Cache em Python
+.# Memória Cache em Python
 
 Este projeto simula o funcionamento básico de uma **memória cache** com mapeamento direto, permitindo observar o comportamento de **cache hit** e **cache miss** em operações de leitura/escrita na memória RAM.
 
@@ -63,7 +63,7 @@ Linha | Endereço | Valor
 ------------------------
   0   |    -     |   -  
   1   |    -     |   - 
-  2   |    8     |  99    --> Endereço 8 definido na Cache
+  2   |    8     |  99   --> Endereço 8 definido na Cache
 
 Buscando endereço: 8     --> Procurando o endereço 8 na Cache
 RESULTADO: Cache hit na linha 2
